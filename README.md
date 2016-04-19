@@ -21,12 +21,10 @@ Please help maintain this list!
 
 It'd be great to see this data actively maintained and extended.
 
-To report errors or suggest enhancements, file an issue.
+To report errors or suggest enhancements, [file an issue](https://github.com/bcampbell/newslist/issues).
 
 Or if you're so inclined, you can jump in and start twiddling data directly
 by forking this repository and sending pull requests.
-
-
 
 ## The data
 
