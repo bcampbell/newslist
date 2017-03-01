@@ -12,7 +12,8 @@ The data is a by-product of the report 'Monopolising local news', published by t
 
 ## Credits
 
-TODO
+* Gordon Ramsay [Centre for the Study of Media, Communication and Power](http://www.kcl.ac.uk/sspp/policy-institute/CMCP/index.aspx) at King's College London
+* Ben Campbell [scumways.com](http://scumways.com)
 
 
 ## Contributing
