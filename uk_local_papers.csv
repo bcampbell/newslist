@@ -42,8 +42,8 @@ Ayr Advertiser,http://www.ayradvertiser.com/,Newsquest PLC,weekly,paid,kmckissoc
 Ayrshire Post,http://www.dailyrecord.co.uk/all-about/ayr,Trinity Mirror Regionals Limited,weekly,paid,??????,01292 262200,KA7 1PX,South Ayrshire
 Ballymena & Antrim Times,http://www.antrimtimes.co.uk/,Johnston Press PLC,weekly,paid,dessie.blackadder@jpress.co.uk,028 2565 3300,BT43 6AL,"Antrim,Ballymena"
 Ballymena Guardian,http://www.ballymenaguardian.co.uk/,Alpha Newspaper Group,weekly,paid,editor@ballymenaguardian.co.uk,028 2564 1221,BT43 6AD,Ballymena
-Ballymoney Chronicle,http://ballymoney.thechronicle.uk.com/,Alpha Newspaper Group,weekly,paid,ballymoney.news@thechronicle.uk.com,028 2766 2354,BT53 6AH,Ballymoney
 Ballymoney and Moyle Times,http://www.ballymoneytimes.co.uk/,Johnston Press PLC,weekly,paid,news@ballymoneytimes.co.uk,028 7035 5260,BT52 1EP,"Moyle,Ballymoney"
+Ballymoney Chronicle,http://ballymoney.thechronicle.uk.com/,Alpha Newspaper Group,weekly,paid,ballymoney.news@thechronicle.uk.com,028 2766 2354,BT53 6AH,Ballymoney
 Banbridge Chronicle,http://www.thebanbridgechronicle.com/,Edward Hodgett Ltd,weekly,paid,editor@thebanbridgechronicle.com,028 4062 1991,BT32 3DF,Banbridge
 Banbridge Leader,http://www.banbridgeleader.co.uk/,Johnston Press PLC,weekly,paid,news@banbridgeleader.co.uk,028 9267 9111,BT28 1BN,Banbridge
 Banbury Cake,http://www.banburycake.co.uk/,Newsquest PLC,weekly,free,soneill@nqo.com,01865 42 52 62,OX2 0EJ,"Cherwell,West Oxfordshire"
@@ -84,7 +84,6 @@ Berrow's Worcester Journal,http://www.worcesternews.co.uk/bj/intro/,Newsquest PL
 Berwick Advertiser,http://www.berwick-advertiser.co.uk/,Johnston Press PLC,weekly,paid,advertisernews@tweeddalepress.co.uk,01289 307304,TD15 1BN,Northumberland
 Berwickshire News East Lothian Herald,http://www.berwickshirenews.co.uk/,Johnston Press PLC,weekly,paid,?????,????,TD15 1BN,East Lothian
 Beverley Advertiser,http://www.beverleypeople.co.uk/,Trinity Mirror Regionals Limited,weekly,free,????,????,HU3 1XS,East Riding of Yorkshire
-Beverley Guardian,http://www.beverleyguardian.co.uk/,Johnston Press PLC,weekly,free,Email:editorial@beverleytoday.co.uk,01723 860160,YO25 6TN,East Riding of Yorkshire
 Bexhill Observer,http://www.bexhillobserver.net/,Johnston Press PLC,weekly,paid,bexobs@trbeckett.co.uk,01424 856785,TN38 9LZ,Rother
 Bexley Mercury,http://www.mercury-today.co.uk/,Tindle Newspapers Limited,weekly,free,hannah.walker@slp.co.uk,0208 835 9721,SW16 1DS,Bexley
 Bexley News Shopper,http://www.newsshopper.co.uk/news/bexley/,Newsquest PLC,weekly,free,patrickgg@london.newsquest.co.uk,01689 885619,BR5 1BT,Bexley
@@ -100,10 +99,10 @@ Birmingham Post,http://www.birminghampost.co.uk/,Trinity Mirror Regionals Limite
 Bishopbriggs Herald,http://www.kirkintilloch-herald.co.uk/,Johnston Press PLC,weekly,paid,kirkyherald@jnscotland.co.uk,0141 775 0040,G66 3AA,East Dunbartonshire
 Blairgowrie Advertiser,http://www.dailyrecord.co.uk/all-about/perthshire,Trinity Mirror Regionals Limited,weekly,paid,????,01738 493200,PH1 5TF,Perth and Kinross
 Blythe & Forsbrook Times,http://www.timesechoandlife.co.uk/,Cheadle and Tean Times Ltd,weekly,paid,news@timesandecho.co.uk,01538 752214,ST10 1BD,Staffordshire Moorlands
-Bo'ness Journal,http://www.linlithgowgazette.co.uk/,Johnston Press PLC,weekly,paid,editorial@journalandgazette.co.uk,01324 690222,FK3 8WX,Falkirk
 Bognor Regis Observer,http://www.bognor.co.uk/,Johnston Press PLC,weekly,paid,news@bognor.co.uk,01243 827111,PO21 1BJ,Arun
 Bolton Journal,http://www.theboltonnews.co.uk/,Newsquest PLC,weekly,free,ian.savage@nqnw.co.uk,01204 537257,BL1 1AR,Bolton
 Bolton News,http://www.theboltonnews.co.uk/,Newsquest PLC,daily,paid,ian.savage@nqnw.co.uk,01204 537257,BL1 1AR,Bolton
+Bo'ness Journal,http://www.linlithgowgazette.co.uk/,Johnston Press PLC,weekly,paid,editorial@journalandgazette.co.uk,01324 690222,FK3 8WX,Falkirk
 Bootle Champion,http://www.champnews.com/,Waypride Ltd,weekly,free,malcolm.hindle@champnews.com,01704 392402,PR9 0QA,Sefton
 Border Telegraph,http://www.bordertelegraph.com/,Newsquest PLC,weekly,paid,amcgilvray@bordertelegraph.com,01896 758435,TD1 3AA,Scottish Borders
 Bordon Herald,http://www.bordonherald.com/,Tindle Newspapers Limited,weekly,paid,farnham-herald@tindlenews.co.uk,01252 725224,GU9 7HL,East Hampshire
@@ -169,6 +168,7 @@ Buxton Advertiser,http://www.buxtonadvertiser.co.uk/,Johnston Press PLC,weekly,p
 Caernarfon Herald,http://www.dailypost.co.uk/all-about/gwynedd,Trinity Mirror Regionals Limited,weekly,paid,welshnews@dailypost.co.uk,01492 574452,LL55 1AG,Gwynedd
 Caithness Courier,http://www.johnogroat-journal.co.uk/Home/,Scottish Provincial Press Limited,weekly,paid,advertising@nosn.co.uk,01955 602424,KW1 5ED,Highland
 Cambrian News,http://www.cambrian-news.co.uk/,Tindle Newspapers Limited,weekly,paid,edit@cambrian-news.co.uk,01970 615000,SY23 3AH,Ceredigion
+Cambridge Independent,http://www.cambridgeindependent.co.uk/home,Iliffe,weekly,paid,,,,Cambridge
 Cambridge News,http://www.cambridge-news.co.uk/,Trinity Mirror Regionals Limited,daily,paid,newsdesk@cambridge-news.co.uk,01223 434439,CB24 6BQ,"East Cambridgeshire,South Cambridgeshire,Cambridge"
 Cambridge News & Crier,http://www.cambridge-news.co.uk/,Trinity Mirror Regionals Limited,weekly,free,newsdesk@cambridge-news.co.uk,01223 434439,CB24 6BQ,Cambridge
 Cambs Times,http://www.cambstimes.co.uk/home,Archant,weekly,free,john.elworthy@archant.co.uk,01354 661915,PE15 9LH,Fenland
@@ -209,6 +209,7 @@ Chorley Guardian,http://www.chorley-guardian.co.uk/,Johnston Press PLC,weekly,pa
 Christchurch Advertiser,http://www.bournemouthecho.co.uk/advertiserseries/,Newsquest PLC,weekly,free,andy.martin@bournemouthecho.co.uk,01202 554601,BH2 6HH,Christchurch
 Chronicle Xtra - Chester,http://www.chesterchronicle.co.uk/,Trinity Mirror Regionals Limited,weekly,free,Link broken,Link broken,CH1 4RN,Cheshire West and Chester
 Chronicle Xtra - South Cheshire,http://www.crewechronicle.co.uk/,Trinity Mirror Regionals Limited,weekly,free,crewe.news@trinitymirror.com,01244 606431,CH1 4RN,Cheshire East
+City Matters,http://citymatters.london/,Roy Court,weekly,free,,,,City of London
 Clacton Gazette,http://www.clactonandfrintongazette.co.uk/,Newsquest PLC,weekly,paid,aynsley.davidson@nqe.com,01255 254217,CO15 1QL,Tendring
 Clanfield Post,http://www.clanfieldpost.co.uk/,Tindle Newspapers Limited,weekly,free,katherinewootton@petersfieldpost.co.uk,01730 232608,GU32 3JR,East Hampshire
 Cleethorpes Chronicle,http://www.cleethorpeschronicle.co.uk/,Cleethorpes Chronicle Ltd,weekly,paid,http://www.cleethorpeschronicle.co.uk/contacts/,01472 204020,DN35 8LZ,North East Lincolnshire
@@ -239,9 +240,7 @@ County Times,http://www.countytimes.co.uk/,NWN Media Ltd,weekly,paid,N/A,01938 5
 Courier & Advertiser (Dundee),http://www.thecourier.co.uk/,DC Thomson & Company Limited,daily,paid,courier@dcthomson.co.uk,01382 223131,DD4 8SL,"Perth and Kinross,Fife,Dundee City,Angus"
 Coventry Observer,http://coventryobserver.co.uk/,Bullivant Media Ltd,weekly,free,editor@coventryobserver.co.uk,0247 601 1777,CV32 4BL,Coventry
 Coventry Telegraph,http://www.coventrytelegraph.net/,Trinity Mirror Regionals Limited,daily,paid,news@coventrytelegraph.net,024 76 500457,CV1 4LY,Coventry
-Coventry Times,http://www.coventrytelegraph.net/,Trinity Mirror Regionals Limited,weekly,free,news@coventrytelegraph.net,024 76 500457,CV1 4LY,Coventry
 Craven Herald & Pioneer,http://www.cravenherald.co.uk/,Newsquest PLC,weekly,paid,andrew.hitchon@cravenherald.co.uk,01756 794117,BD23 1JU,Craven
-Crawley News,http://www.crawleynews.co.uk/,Trinity Mirror Regionals Limited,weekly,free,editor@crawleynews.co.uk,01293 325914,RH1 1QT,Crawley
 Crawley Observer,http://www.crawleyobserver.co.uk/,Johnston Press PLC,weekly,paid,crawleyobserver@jpress.co.uk,01293 562929,RH10 1XX,Crawley
 Crediton Courier,http://www.creditoncouriernewspaper.co.uk/,Tindle Newspapers Limited,weekly,paid,sean@creditoncouriernewspaper.co.uk,01363 774263,EX17 3LF,Mid Devon
 Crewe Chronicle,http://www.crewechronicle.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,crewe.news@trinitymirror.com,01244 606431,CH1 4RN,Cheshire East
@@ -390,7 +389,6 @@ Folkestone Herald (Romney Marsh),http://www.folkestoneherald.co.uk/,Trinity Mirr
 Forest of Dean & Wye Valley Review,http://www.theforestreview.co.uk/,Tindle Newspapers Limited,weekly,free,revieweditor@tindlenews.co.uk,01594 841113,GL5 2HE,Forest of Dean
 Forfar Dispatch,http://www.forfardispatch.co.uk/ http://www.kirriemuirherald.co.uk/,Johnston Press PLC,weekly,paid,news@forfardispatch.com,01307 474 040,DD8 3AH,Angus
 Formby Champion,http://www.champnews.com/,Waypride Ltd,weekly,free,malcolm.hindle@champnews.com,01704 392402,PR9 0QA,Sefton
-Formby Times,http://www.southportvisiter.co.uk/all-about/formby,Trinity Mirror Regionals Limited,weekly,free,andrew.brownNW@trinitymirror.com,01704 398248,L69 3EB,Sefton
 Forres Gazette,http://www.forres-gazette.co.uk/Home/,Scottish Provincial Press Limited,weekly,paid,newsdesk@forres-gazette.co.uk,01309 672615,IV36 1DX,Moray
 Fraserburgh Herald,http://www.fraserburghherald.co.uk/,Johnston Press PLC,weekly,paid,news@fraserburghherald.com,01346 518109,AB43 9HP,Aberdeenshire
 Free Press of Monmouth,http://www.freepressseries.co.uk/,Newsquest PLC,weekly,paid,nicole.garnon@gwent-wales.co.uk,N/A,NP20 3QN,Monmouthshire
@@ -401,14 +399,14 @@ Gainsborough Standard,http://www.gainsboroughstandard.co.uk/,Johnston Press PLC,
 Galloway Gazette & Stranraer News,http://www.gallowaygazette.co.uk/,Johnston Press PLC,weekly,paid,editorial@gallowaygazette.com,01671 402503,DG8 6NL,Dumfries and Galloway
 Galloway News,http://www.dailyrecord.co.uk/all-about/dumfries-galloway,Trinity Mirror Regionals Limited,weekly,paid,????,01357 255252,DG1 2AX,Dumfries and Galloway
 Garstang Courier,http://www.garstangcourier.co.uk/,Johnston Press PLC,weekly,paid,garstang.courier@lep.co.uk,01772 554 558,PR2 9ZA,Wyre
-Gazette & Herald - Yorkshire,http://www.gazetteherald.co.uk/,Newsquest PLC,weekly,paid,gazette@gazetteherald.co.uk,01653 695600,YO1 9YN,Ryedale
 Gazette - Blackpool,http://www.blackpoolgazette.co.uk/,Johnston Press PLC,daily,paid,editorial@blackpoolgazette.co.uk,01253 400888,FY4 2DP,"Blackpool,Fylde"
+Gazette & Herald - Yorkshire,http://www.gazetteherald.co.uk/,Newsquest PLC,weekly,paid,gazette@gazetteherald.co.uk,01653 695600,YO1 9YN,Ryedale
 Getreading,http://www.getreading.co.uk/,Trinity Mirror Regionals Limited,online,free,getreading@trinitymirror.com,0118 929 8501,RG1 8NS,Reading
+Glamorgan Gazette,http://www.walesonline.co.uk/all-about/bridgend,Trinity Mirror Regionals Limited,weekly,paid,newsdesk@walesonline.co.uk,029 2024 3630,CF10 1XR,Bridgend
 Glamorgan GEM (Barry GEM),http://www.barry-today.co.uk/,Tindle Newspapers Limited,weekly,free,caroline@tindlenews.co.uk,01446 774484,CF71 7EL,Vale of Glamorgan
 Glamorgan GEM (Bridgend & Porthcawl GEM),http://www.bridgend-today.co.uk/,Tindle Newspapers Limited,weekly,free,caroline@tindlenews.co.uk,01446 774484,CF71 7EL,Bridgend
 Glamorgan GEM (Cowbridge GEM),http://www.cowbridge-today.co.uk/,Tindle Newspapers Limited,weekly,free,gemeditorial@tindlenews.co.uk,01446 774484,CF71 7EL,Vale of Glamorgan
 Glamorgan GEM (Llantwit Major GEM),http://www.llantwit-major-today.co.uk/,Tindle Newspapers Limited,weekly,free,gemeditorial@tindlenews.co.uk,01446 774484,CF71 7EL,Vale of Glamorgan
-Glamorgan Gazette,http://www.walesonline.co.uk/all-about/bridgend,Trinity Mirror Regionals Limited,weekly,paid,newsdesk@walesonline.co.uk,029 2024 3630,CF10 1XR,Bridgend
 Glasgow South & Eastwood Extra,http://www.glasgowsouthandeastwoodextra.co.uk/,Johnston Press PLC,weekly,free,Allan.Hodge@Jpress.co.uk,0141 427 7878,G51 1PT,East Renfrewshire
 Glenrothes Gazette,http://www.fifetoday.co.uk/,Johnston Press PLC,weekly,paid,ffpnews@fifetoday.co.uk,01592 645700,KY1 1EP,Fife
 Gloucester Independent,http://www.wiltsglosstandard.co.uk/,Newsquest PLC,weekly,free,skip.walker@wiltsglosstandard.co.uk,01285 642642,GL7 2PW,Stroud
@@ -420,7 +418,6 @@ Godalming Messenger,http://www.godalmingmessenger.com/,Tindle Newspapers Limited
 Godstone County Border News,http://www.godstone-today.co.uk/,Tindle Newspapers Limited,weekly,free,kevinwilliamblack@gmail.com,07814 458802,TN16 1AT,Tandridge
 Goole Times,http://gooletimes.info/index1.htm,Chronicle Publications Limited,weekly,paid,http://gooletimes.info/index0.htm?sname=target_form.asp&smenu=65&pform=ContactUs,N/A,DN14 6AE,East Riding of Yorkshire
 Grantham Journal,http://www.granthamjournal.co.uk/,Johnston Press PLC,weekly,paid,paul.richardson1@granthamjournal.co.uk,01476 562291,NG31 6QB,South Kesteven
-Grantham Target,http://www.granthamtarget.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,news@targetseries.co.uk,01205 315000,PE21 6SR,South Kesteven
 Gravesend & Dartford Messenger Extra,http://www.kentonline.co.uk/gravesend/,KM Group Ltd,weekly,free,gravesendmessenger@thekmgroup.co.uk,01474 564327,DA11 0BQ,"Gravesham,Dartford"
 Gravesend Messenger,http://www.kentonline.co.uk/gravesend/,KM Group Ltd,weekly,paid,gravesendmessenger@thekmgroup.co.uk,01474 564327,DA11 0BQ,Gravesham
 Gravesend Reporter,http://www.gravesendreporter.co.uk/home,Archant,weekly,paid,chris.britcher@archant.co.uk,01233 653476,IG1 1UD,Gravesham
@@ -460,7 +457,6 @@ Haverhill Weekly News,http://www.cambridge-news.co.uk/Haverhill,Trinity Mirror R
 Havering Yellow Advertiser,http://www.yellowadvertiser-today.co.uk/,Tindle Newspapers Limited,weekly,free,steveneale@yellowad.co.uk,01268 503463,SS14 1AH,Havering
 Hawick News,http://www.hawick-news.co.uk/,Johnston Press PLC,weekly,paid,jason.marshall@jpress.co.uk,01450 379690,TD9 0AU,Scottish Borders
 Hayes & Harlington Gazette,http://www.getwestlondon.co.uk/all-about/hayes,Trinity Mirror Regionals Limited,weekly,paid,amy.de-keyzer@trinitymirror.com,01483 508904,GU1 1QA,Hillingdon
-Hebden Bridge Times & Todmorden News,http://www.hebdenbridgetimes.co.uk/,Johnston Press PLC,weekly,paid,john.greenwood@jpress.co.uk,01422 260283,HX3 5AX,Calderdale
 Helensburgh Advertiser,http://www.helensburghadvertiser.co.uk/,Newsquest PLC,weekly,paid,editorial@helensburghadvertiser.co.uk,0141 435 8888,G81 4XJ,Argyll and Bute
 Helston Packet,http://www.falmouthpacket.co.uk/news/helstonandporthleven/,Newsquest PLC,weekly,paid,paul.armstrong@packetseries.co.uk,01326 213336,TR11 4SZ,Cornwall
 Hemel Hempstead Gazette (Berkhamstead & Tring),http://www.berkhamstedtoday.co.uk/,Johnston Press PLC,weekly,paid,damien.lucas@jpress.co.uk,01296 619774,HP19 8DB,Dacorum
@@ -520,12 +516,6 @@ Islington Gazette,http://www.islingtongazette.co.uk/home,Archant,weekly,paid,aim
 Islington Tribune,http://www.islingtontribune.com/,New Journal Enterprises Ltd,weekly,paid,editorial@camdennewjournal.co.uk,020 7419 9000,NW1 9DR,Islington
 Ivybridge & South Brent Gazette,http://www.ivybridge-today.co.uk/,Tindle Newspapers Limited,weekly,paid,shn@tindlenews.co.uk,01548 856353,PL21 9AB,South Hams
 John O'Groats Journal,http://www.johnogroat-journal.co.uk/Home/,Scottish Provincial Press Limited,weekly,paid,e.mackay@nosn.co.uk,01955 607060,KW1 5ED,Highland
-KM Extra (Ashford),http://www.kentonline.co.uk/ashford/,KM Group Ltd,weekly,free,rbarman@thekmgroup.co.uk,01233 895801,TN24 8JR,Ashford
-KM Extra (Canterbury),http://www.kentonline.co.uk/canterbury/,KM Group Ltd,weekly,free,kentishgazette@thekmgroup.co.uk,01227 768181,CT5 3SE,Canterbury
-KM Extra (Folkestone & Hythe),http://www.kentonline.co.uk/folkestone/,KM Group Ltd,weekly,free,folkestoneexpress@thekmgroup.co.uk,01233 895801,TN24 8JR,Shepway
-KM Extra (Maidstone),http://www.kentonline.co.uk/maidstone/,KM Group Ltd,weekly,free,deaton@thekmgroup.co.uk,01622 695666,ME14 1TG,Maidstone
-KM Extra (Medway),http://www.kentonline.co.uk/medway/,KM Group Ltd,weekly,free,medwaymessenger@thekmgroup.co.uk,01634 227803,ME2 4DU,Medway
-KM Extra (Thanet),http://www.kentonline.co.uk/thanet/,KM Group Ltd,weekly,free,thanetextra@thekmgroup.co.uk,01843 222777,CT9 2PA,Thanet
 Keighley News,http://www.keighleynews.co.uk/,Newsquest PLC,weekly,paid,richard.parker@nqyne.co.uk,01535 606611 (option 3),BD21 3AG,Bradford
 Kenilworth Weekly News,http://www.kenilworthweeklynews.co.uk/,Johnston Press PLC,weekly,paid,editorial@kenilworthweeklynews.co.uk,01926 457777,CV32 4LY,Warwick
 Kensington News,http://www.londonweeklynews.co.uk/news/westminsterPimlico/,Tindle Newspapers Limited,weekly,free,editorial@londonweeklynews.co.uk,07864 992274,SE20 7TS,Kensington and Chelsea
@@ -553,6 +543,12 @@ Kingston Guardian,http://www.kingstonguardian.co.uk/,Newsquest PLC,weekly,free,n
 Kirkby Star,http://www.liverpoolecho.co.uk/,Trinity Mirror Regionals Limited,weekly,free,news@liverpool.com,0151 4722507,L69 3EB,Knowsley
 Kirkintilloch Herald,http://www.kirkintilloch-herald.co.uk/,Johnston Press PLC,weekly,paid,kirkyherald@jnscotland.co.uk,0141 775 0040,G66 3AA,East Dunbartonshire
 Kirriemuir Herald,http://www.kirriemuirherald.co.uk/,Johnston Press PLC,weekly,paid,news@forfardispatch.com,01307 464899,DD8 3AH,Angus
+KM Extra (Ashford),http://www.kentonline.co.uk/ashford/,KM Group Ltd,weekly,free,rbarman@thekmgroup.co.uk,01233 895801,TN24 8JR,Ashford
+KM Extra (Canterbury),http://www.kentonline.co.uk/canterbury/,KM Group Ltd,weekly,free,kentishgazette@thekmgroup.co.uk,01227 768181,CT5 3SE,Canterbury
+KM Extra (Folkestone & Hythe),http://www.kentonline.co.uk/folkestone/,KM Group Ltd,weekly,free,folkestoneexpress@thekmgroup.co.uk,01233 895801,TN24 8JR,Shepway
+KM Extra (Maidstone),http://www.kentonline.co.uk/maidstone/,KM Group Ltd,weekly,free,deaton@thekmgroup.co.uk,01622 695666,ME14 1TG,Maidstone
+KM Extra (Medway),http://www.kentonline.co.uk/medway/,KM Group Ltd,weekly,free,medwaymessenger@thekmgroup.co.uk,01634 227803,ME2 4DU,Medway
+KM Extra (Thanet),http://www.kentonline.co.uk/thanet/,KM Group Ltd,weekly,free,thanetextra@thekmgroup.co.uk,01843 222777,CT9 2PA,Thanet
 Knaresborough Post,http://www.harrogateadvertiser.co.uk/news/local/knaresborough,Johnston Press PLC,weekly,paid,news@harrogateadvertiser.co.uk,01423 707402,HG3 1RZ,Harrogate
 Knutsford Guardian,http://www.knutsfordguardian.co.uk/,Newsquest PLC,weekly,paid,carla.flynn@nqnw.co.uk,01606 813600,CW9 5HB,Cheshire East
 Lanark Gazette,http://www.carlukegazette.co.uk/,Johnston Press PLC,weekly,paid,clgazette@jnscotland.co.uk,01555 772226,ML11 9DS,South Lanarkshire
@@ -574,6 +570,7 @@ Leigh Reporter,http://www.leighreporter.co.uk/,Johnston Press PLC,weekly,free,ne
 Leighton Buzzard Observer,http://www.leightonbuzzardonline.co.uk/,Johnston Press PLC,weekly,paid,news@lbobserver.co.uk,01582 700666,LU1 2RD,Central Bedfordshire
 Lennox Herald,http://www.dailyrecord.co.uk/all-about/west-dunbartonshire,Trinity Mirror Regionals Limited,weekly,paid,news@lennoxherald.co.uk,0141 309 3517,G3 8DA,East Dunbartonshire
 Letchworth & Baldock Comet,http://www.thecomet.net/news/letchworth-baldock,Archant,weekly,free,john.francis@archant.co.uk,01438 866201,SG1 3EE,North Hertfordshire
+Lewes and South Coast Argus,http://www.theargus.co.uk/leader/,Newsquest PLC,weekly,free,mike.gilson@theargus.co.uk,01273 544501,BN1 8AR,Lewes
 Lewisham & Catford News Shopper,http://www.newsshopper.co.uk/news/lewisham/,Newsquest PLC,weekly,free,mchandler@london.newsquest.co.uk,01689 885714,BR5 1BT,Lewisham
 Lewisham Mercury,http://www.mercury-today.co.uk/,Tindle Newspapers Limited,weekly,paid,hannah.walker@slp.co.uk,0208 835 9721,SW16 1DS,Lewisham
 Leyland Guardian,http://www.leylandguardian.co.uk/,Johnston Press PLC,weekly,paid,guardian.newsdesk@jpress.co.uk,01772 838104,PR2 9ZA,South Ribble
@@ -589,7 +586,6 @@ Littlehampton Gazette,http://www.littlehamptongazette.co.uk/,Johnston Press PLC,
 Liverpool Echo,http://www.liverpoolecho.co.uk/,Trinity Mirror Regionals Limited,daily,paid,news@liverpool.com,0151 4722507,L69 3EB,"Knowsley,Liverpool,Sefton,Wirral"
 Liverpool Sunday Echo,http://www.liverpoolecho.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,news@liverpool.com,0151 4722507,L69 3EB,Liverpool
 Llanelli Star,http://www.llanellistar.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,alana.lewis@swwmedia.co.uk,01554 745316,SA15 1UU,Carmarthenshire
-Lochaber News,http://www.lochaber-news.co.uk/Home/,Scottish Provincial Press Limited,weekly,paid,editor@lochaber-news.co.uk,01379 702927,PH33 6RU,Highland
 London Weekly News,http://www.londonweeklynews.co.uk/news/westminsterPimlico/,Tindle Newspapers Limited,weekly,free,editorial@londonweeklynews.co.uk,07864 992274,SE20 7TS,Westminster
 Londonderry Sentinel,http://www.londonderrysentinel.co.uk/,Johnston Press PLC,weekly,paid,william.allen@londonderrysentinel.co.uk,028 7134 8889,BT47 6AA,Derry/Londonderry
 Longridge News & Ribble Valley Advertiser,http://www.longridgenews.co.uk/,Johnston Press PLC,weekly,paid,longridge.news@lep.co.uk,01772 554547,PR2 9ZA,Ribble Valley
@@ -599,20 +595,16 @@ Lowestoft Journal,http://www.lowestoftjournal.co.uk/home,Archant,weekly,paid,And
 Ludlow Advertiser,http://www.ludlowadvertiser.co.uk/,Newsquest PLC,weekly,paid,clive.joyce@herefordtimes.com,N/A,HR4 9UJ,Shropshire
 Lurgan Mail,http://www.lurganmail.co.uk/,Johnston Press PLC,weekly,paid,editor@lurganmail.co.uk,028 3839 5563,BT63 5YY,Craigavon
 Luton News,http://www.lutontoday.co.uk/,Johnston Press PLC,weekly,paid,editorial@lutonnews.co.uk,01582 700600,LU1 2RD,Luton
-Luton on Sunday,http://www.luton-dunstable.co.uk/,Trinity Mirror Regionals Limited,weekly,free,stefan.bartlett@lutononsunday.co.uk,01582 707707,LU1 2DP,Luton
 Lutterworth Observer,http://rugbyobserver.co.uk/,Bullivant Media Ltd,weekly,free,editor@rugbyobserver.co.uk,01788 220 445,CV32 4BL,Harborough
 Lymington Times,http://www.advertiserandtimes.co.uk/,Advertiser & Times Ltd,weekly,paid,news@advertiserandtimes.co.uk,01425 615501,BH25 6EH,New Forest
 Lynn News,http://www.lynnnews.co.uk/,Johnston Press PLC,twiceweekly,paid,Paul.Richardson1@jpress.co.uk,01553 817328,PE30 1HL,King's Lynn and West Norfolk
 Lytham St Annes Express,http://www.lythamstannesexpress.co.uk/,Johnston Press PLC,weekly,paid,news@lsaexpress.co.uk,01253 361840,FY4 2DP,Fylde
-MK News,http://www.mkweb.co.uk/news,Trinity Mirror Regionals Limited,weekly,free,cally.jenkins@mk-news.co.uk,01908 242490,MK15 0DU,Milton Keynes
-MK Web,http://www.mkweb.co.uk/,Trinity Mirror Regionals Limited,online,free,cally.jenkins@mk-news.co.uk,01908 689580,MK15 0DU,Milton Keynes
 Mablethorpe & Sutton Leader,http://www.louthleader.co.uk/,Johnston Press PLC,weekly,paid,louthleader@jpress.co.uk,01507 353200,LN11 9NJ,East Lindsey
 Macclesfield Express,http://www.macclesfield-express.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,macclesfieldexpress@menmedia.co.uk,0161 211 2985,SK10 1EB,Cheshire East
 Maghall & Aintree Star,http://www.liverpoolecho.co.uk/all-about/maghull,Trinity Mirror Regionals Limited,weekly,free,news@liverpool.com,0151 472 2507,L69 3EB,Sefton
 Maidenhead Advertiser,http://www.maidenhead-advertiser.co.uk/Home/,Baylis Media Ltd,weekly,paid,news@baylismedia.co.uk,01628 680680,SL6 1HX,Windsor and Maidenhead
 Maidstone & Medway News,http://www.maidstoneandmedwaynews.co.uk/,Trinity Mirror Regionals Limited,online,free,simon.finlay@krnmedia.co.uk,01737 783822,CT20 1SZ,"Maidstone,Medway"
 Maldon Standard,http://www.maldonandburnhamstandard.co.uk/,Newsquest PLC,weekly,paid,andrew.bennett@nqe.com,01376 343344,CM7 1JP,Maldon
-Malton & Pickering Mercury,http://www.maltonmercury.co.uk/,Johnston Press PLC,weekly,paid,andrew.pitt@jpress.co.uk,01723 363636,YO11 1BB,Ryedale
 Malvern Gazette,http://www.malverngazette.co.uk/,Newsquest PLC,weekly,paid,john.wilson@midlands.newsquest.co.uk,01905 742243,WR2 5JX,Malvern Hills
 Malvern Observer,http://malvernobserver.co.uk/,Bullivant Media Ltd,weekly,free,editor@malvernobserver.co.uk,01684 212 363,B98 8BP,Malvern Hills
 Manchester Evening News,http://www.manchestereveningnews.co.uk/,Trinity Mirror Regionals Limited,daily,paid,newsdesk@men-news.co.uk,0161 211 2920,OL9 8EF,"Manchester,Salford,Stockport"
@@ -628,7 +620,6 @@ Melton Times,http://www.meltontimes.co.uk/,Johnston Press PLC,weekly,paid,editor
 Mercury Extra,http://www.leicestermercury.co.uk/,Trinity Mirror Regionals Limited,weekly,free,newsdesk@leicestermercury.co.uk,0116 222 4446,LE1 9FQ,Leicester
 Merthyr Express,http://www.walesonline.co.uk/news/,Trinity Mirror Regionals Limited,weekly,paid,newsdesk@walesonline.co.uk,029 2024 3630,CF47 8AT,Merthyr Tydfil
 Mid Beds Times & Citizen,http://www.bedfordtoday.co.uk/news/local/mid-beds,Johnston Press PLC,weekly,free,editorial@timesandcitizen.co.uk,01234 405060,MK40 3EU,Central Bedfordshire
-Mid Devon Star,http://www.middevonstar.co.uk/,Newsquest PLC,weekly,free,editorial@middevonstar.co.uk,01823 365210,TA1 1JR,Mid Devon
 Mid Hampshire Observer,http://www.hantsdirect.com/,Hampshire Media Ltd,weekly,free,hampshiremedia@aol.com,01962 859559,SO23 7RX,"Winchester,Test Valley"
 Mid Sussex Leader,http://www.theargus.co.uk/,Newsquest PLC,weekly,free,mike.gilson@theargus.co.uk,01273 544501,BN1 8AR,Mid Sussex
 Mid Sussex Times,http://www.midsussextimes.co.uk/,Johnston Press PLC,weekly,paid,middy.news@sussexnewspapers.co.uk,01403 751200,RH16 4LE,Mid Sussex
@@ -638,14 +629,14 @@ Mid-Devon Advertiser (Ashburton & Buckfastleigh),http://www.newton-abbot-today.c
 Mid-Devon Advertiser (Bovey Tracey & Chudleigh),http://www.newton-abbot-today.co.uk/,Tindle Newspapers Limited,weekly,paid,ruthdavey@tindlenews.co.uk,01626 353555,TQ12 1NE,Teignbridge
 Mid-Devon Advertiser (Kingsteignton),http://www.newton-abbot-today.co.uk/,Tindle Newspapers Limited,weekly,paid,ruthdavey@tindlenews.co.uk,01626 353555,TQ12 1NE,Teignbridge
 Mid-Devon Advertiser (Newton Abbot),http://www.newton-abbot-today.co.uk/,Tindle Newspapers Limited,weekly,paid,ruthdavey@tindlenews.co.uk,01626 353555,TQ12 1NE,Teignbridge
-Mid-Ulster Mail,http://www.midulstermail.co.uk/,Johnston Press PLC,weekly,paid,michael.mcglade@jpress.co.uk,028 8676 2288,BT80 8EF,"Magherafelt,Cookstown"
-Mid-Ulster Mail (South Derry),http://www.midulstermail.co.uk/,Johnston Press PLC,weekly,paid,michael.mcglade@jpress.co.uk,028 8676 2288,BT80 8EF,Derry/Londonderry
 Middlesbrough Herald & Post,http://www.gazettelive.co.uk/herald-and-post-middlesbrough/,Trinity Mirror Regionals Limited,weekly,free,news@gazettemedia.co.uk,01642 234262,TS1 3AZ,Middlesbrough
 Middleton & North Manchester Guardian,http://www.manchestereveningnews.co.uk/all-about/middleton,Trinity Mirror Regionals Limited,weekly,paid,newsdesk@men-news.co.uk,0161 211 2920,OL9 8EF,Rochdale
 Middlewich Guardian,http://www.middlewichguardian.co.uk/,Newsquest PLC,weekly,paid,carla.flynn@nqnw.co.uk,01606 813600,CW9 5HB,Cheshire West and Chester
 Midhurst & Petworth Observer,http://www.midhurstandpetworth.co.uk/,Johnston Press PLC,weekly,paid,kelly.brown@jpress.co.uk,01243 534132,GU29 9DT,Chichester
 Midlothian Advertiser,http://www.midlothianadvertiser.co.uk/,Johnston Press PLC,weekly,paid,midlothianadvertiser@jnlothian.co.uk,0131 311 7311,EH4 2HS,Midlothian
 "Midsomer Norton, Radstock and District Journal",http://www.mnrjournal-somerset.co.uk/,Tindle Newspapers Limited,weekly,free,mnrjournal@btconnect.com,01761 408160,BA3 2BB,Bath and North East Somerset
+Mid-Ulster Mail,http://www.midulstermail.co.uk/,Johnston Press PLC,weekly,paid,michael.mcglade@jpress.co.uk,028 8676 2288,BT80 8EF,"Magherafelt,Cookstown"
+Mid-Ulster Mail (South Derry),http://www.midulstermail.co.uk/,Johnston Press PLC,weekly,paid,michael.mcglade@jpress.co.uk,028 8676 2288,BT80 8EF,Derry/Londonderry
 Midweek Herald,http://www.stratford-herald.com/,George Boyden & Son Ltd,weekly,free,achalmers@stratford-herald.com,01789 412831,CV37 6NB,"East Devon,Stratford-on-Avon"
 Midweek Mercury,http://www.thewestonmercury.co.uk/home,Archant,weekly,free,newsdesk@westonmercury.co.uk,01934 422500,BS23 1LW,North Somerset
 Midweek Mercury (Hitchin),http://www.hertfordshiremercury.co.uk/buntingford-and-royston,Trinity Mirror Regionals Limited,weekly,free,N/A,01992 526602,SG13 7HU,North Hertfordshire
@@ -661,7 +652,6 @@ Morecambe Guardian,http://www.lancasterguardian.co.uk/,Johnston Press PLC,weekly
 Morley Observer,http://www.morleyobserver.co.uk/,Johnston Press PLC,weekly,paid,editorial@morleytoday.co.uk,0113 2388950,LS12 1BE,Leeds
 Morpeth Herald,http://www.morpethherald.co.uk/,Johnston Press PLC,weekly,paid,morpeth.herald@northeast-press.co.uk,,NE61 2DB,Northumberland
 Motherwell Times,http://www.motherwelltimes.co.uk/,Johnston Press PLC,weekly,paid,motherwell.times@jnscotland.co.uk,01698 264611,ML1 1BT,North Lanarkshire
-Musselburgh News,http://www.eastlothiannews.co.uk/,Johnston Press PLC,weekly,paid,eastlothiannews@jnlothian.co.uk,0131 311 7311,EH8 8AS,East Lothian
 Nantwich Chronicle,http://www.crewechronicle.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,crewe.news@trinitymirror.com,01244 606431,CH1 4RN,Cheshire East
 Narbeth & Whitland Observer,http://www.narberth-and-whitland-today.co.uk/,Tindle Newspapers Limited,weekly,paid,editor@thetenbyobserver.co.uk,01834 843262,SA70 7JY,Pembrokeshire
 Nelson Leader,http://www.pendletoday.co.uk/,Johnston Press PLC,weekly,paid,peter.dewhurst@jpress.co.uk,01282 426161,BB11 1DP,Pendle
@@ -708,13 +698,11 @@ Northern Times,http://www.northern-times.co.uk/Home/,Scottish Provincial Press L
 Northumberland Gazette,http://www.northumberlandgazette.co.uk/,Johnston Press PLC,weekly,paid,northumberland.gazette@northeast-press.co.uk,01665 602234,NE66 1PN,Northumberland
 Northumberland News Post Leader,http://www.newspostleader.co.uk/,Johnston Press PLC,weekly,free,news.leader@jpress.co.uk,01670 517171,NE61 2DB,Northumberland
 Northwich Guardian,http://www.northwichguardian.co.uk/,Newsquest PLC,weekly,paid,carla.flynn@nqnw.co.uk,01606 813600,CW9 5HB,Cheshire West and Chester
-Norwich Advertiser,http://www.norwichadvertiser24.co.uk/home,Archant,weekly,free,http://www.norwichadvertiser24.co.uk/contact-us/contact-us,01603 628311,NR1 1RE,Norwich
 Norwich Evening News,http://www.eveningnews24.co.uk/home,Archant,daily,paid,Nigel.Pickover@archant.co.uk,01603 772401,NR1 1RE,Norwich
+Norwich Extra,http://www.norwichextra.com/,Archant,weekly,Free,,,,Norwich
 Nottingham Post,http://www.nottinghampost.com/,Trinity Mirror Regionals Limited,daily,paid,mike.sassi@nottinghampost.com,0115 948 2000,NG1 5FS,"Gedling,Rushcliffe,Nottingham,Broxtowe"
 Nottingham Post Lite,http://www.nottinghampost.com/,Trinity Mirror Regionals Limited,weekly,free,mike.sassi@nottinghampost.com,0115 948 2000,NG1 5FS,Nottingham
-Nuneaton News,http://www.nuneaton-news.co.uk/,Trinity Mirror Regionals Limited,daily,paid,editorial@nuneaton-news.co.uk,02476 353534,CV11 4HP,Nuneaton and Bedworth
-Nuneaton Weekly Tribune,http://www.coventrytelegraph.net/all-about/nuneaton,Trinity Mirror Regionals Limited,weekly,free,???,01455 891965,LE10 0AB,Nuneaton and Bedworth
-Oban Times & W Highland Times,http://www.obantimes.co.uk/,Oban Times Ltd,weekly,paid,editor@obantimes.co.uk,01631 568000,PA34 4HB,Argyll and Bute
+Oban Times & W Highland Times (& Lochaber News),http://www.obantimes.co.uk/,Oban Times Ltd,weekly,paid,editor@obantimes.co.uk,01631 568000,PA34 4HB,Argyll and Bute
 Okehampton Times,http://www.okehampton-today.co.uk/,Tindle Newspapers Limited,weekly,paid,tavistock@tindlenews.co.uk,01822 613666,EX20 1AS,West Devon
 Oldham Evening Chronicle,http://www.oldham-chronicle.co.uk/,"Hirst, Kidd and Rennie",daily,paid,http://www.oldham-chronicle.co.uk/home/contact-us,0161 633 2121,OL1 1EQ,Oldham
 Oldham Extra,http://www.oldham-chronicle.co.uk/,"Hirst, Kidd and Rennie",weekly,free,http://www.oldham-chronicle.co.uk/home/contact-us,0161 633 2121,OL1 1EQ,Oldham
@@ -727,6 +715,7 @@ Ottery Herald,http://www.sidmouthherald.co.uk/home,Archant,weekly,paid,stefan.go
 Oxford Mail,http://www.oxfordmail.co.uk/,Newsquest PLC,daily,paid,soneill@nqo.com,01865 42 52 62,OX2 0EJ,Oxford
 Oxford Times,http://www.oxfordtimes.co.uk/,Newsquest PLC,weekly,paid,soneill@nqo.com,01865 42 52 62,OX2 0EJ,Oxford
 Oxfordshire Guardian,http://www.oxfordshireguardian.co.uk/,Taylor Newspapers Ltd,weekly,free,http://www.oxfordshireguardian.co.uk/contact-editorial/,01235 516931,OX11 7HR,"Oxford,Vale of White Horse,West Oxfordshire"
+Oxfordshire Star,,Newsquest PLC,weekly,free,,,,Oxford
 Oxted County Border News,http://www.oxted-today.co.uk/,Tindle Newspapers Limited,weekly,free,kevinwilliamblack@gmail.com,07814 458802,TN16 1AT,Tandridge
 Paisley & Renfrewshire Gazette,http://www.the-gazette.co.uk/,Newsquest PLC,weekly,paid,gmann@cfpress.co.uk,0141 435 8869,G81 4XJ,Renfrewshire
 Paisley Daily Express,http://www.dailyrecord.co.uk/all-about/paisley,Trinity Mirror Regionals Limited,daily,paid,????,0141 887 7911,G3 8DA,Renfrewshire
@@ -781,8 +770,8 @@ Romford & Havering Post,http://www.romfordrecorder.co.uk/home,Archant,weekly,fre
 Romford Recorder,http://www.romfordrecorder.co.uk/home,Archant,weekly,paid,chris.carter@archant.co.uk,020 8477 3804,IG1 1UD,Havering
 Romsey Advertiser,http://www.romseyadvertiser.co.uk/,Newsquest PLC,weekly,paid,N/A,01794 513396,SO51 8NA,Test Valley
 Ross Gazette,http://www.ross-today.co.uk/,Tindle Newspapers Limited,weekly,paid,charlotte.reynolds@rossgazette.com,01989 562007,HR9 7DY,Herefordshire
-Ross-shire Journal,http://www.ross-shirejournal.co.uk/Home/,Scottish Provincial Press Limited,weekly,paid,editor@rsjournal.co.uk,01349 863436,IV15 9UG,Highland
 Rossendale Free Press,http://www.rossendalefreepress.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,freepressnews@menmedia.co.uk,0161 211 2977,OL9 8EF,Rossendale
+Ross-shire Journal,http://www.ross-shirejournal.co.uk/Home/,Scottish Provincial Press Limited,weekly,paid,editor@rsjournal.co.uk,01349 863436,IV15 9UG,Highland
 Rotherham Advertiser,http://www.rotherhamadvertiser.co.uk/,Garnett Dickinson Publishing Ltd,weekly,paid,newsdesk@rotherhamadvertiser.co.uk,01709 768146,S63 5DL,Rotherham
 Rotherham Record,N/A,Garnett Dickinson Publishing Ltd,weekly,free,N/A,N/A,S63 5DL,Rotherham
 Royston Crow,http://www.royston-crow.co.uk/home,Archant,weekly,free,john.francis@archant.co.uk,01438 866201,SG1 3EE,North Hertfordshire
@@ -836,7 +825,6 @@ Somerset County Gazette,http://www.somersetcountygazette.co.uk/,Newsquest PLC,we
 Somerset Guardian,http://www.somersetguardian.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,editor@somersetguardian.co.uk,01761 417778,BA3 2DE,Bath and North East Somerset
 South Belfast News,http://belfastmediagroup.com/,Belfast Media Group,weekly,paid,m.mccourt@belfastmediagroup.com,028 9060 6842,BT17 0LT,"Belfast,Castlereagh"
 South Bucks Star,http://www.bucksfreepress.co.uk/,Newsquest PLC,weekly,free,tjones@london.newsquest.co.uk,01494 755 000,HP10 9TY,"South Bucks,Wycombe,Chiltern"
-South Coast Leader,http://www.theargus.co.uk/leader/,Newsquest PLC,weekly,free,mike.gilson@theargus.co.uk,01273 544501,BN1 8AR,Lewes
 South Lakes Citizen,http://www.thewestmorlandgazette.co.uk/,Newsquest PLC,weekly,free,None,01539 720555,LA9 4DP,South Lakeland
 South London Press (Brixton),http://www.southlondonpress.co.uk/,Tindle Newspapers Limited,twiceweekly,paid,hannah.walker@slp.co.uk,0208 835 9721,SW16 1DS,Lambeth
 South London Press (Deptford & New Cross),http://www.southlondonpress.co.uk/,Tindle Newspapers Limited,twiceweekly,paid,hannah.walker@slp.co.uk,0208 835 9721,SW16 1DS,Lewisham
@@ -851,7 +839,6 @@ South Wales Argus,http://www.southwalesargus.co.uk/,Newsquest PLC,daily,paid,nic
 South Wales Echo,http://www.walesonline.co.uk/all-about/cardiff,Trinity Mirror Regionals Limited,daily,paid,newsdesk@walesonline.co.uk,029 2024 3630,CF10 1XR,Cardiff
 South Wales Evening Post,http://www.southwales-eveningpost.co.uk/,Trinity Mirror Regionals Limited,daily,paid,jonathan.roberts@swwmedia.co.uk,01792 545515,SA1 1NW,Swansea
 South Wales Guardian,http://www.southwalesguardian.co.uk/,Newsquest PLC,weekly,paid,steve.adams@southwalesguardian.co.uk,01269 592781,SA18 3BS,Carmarthenshire
-South Yorkshire Times,http://www.southyorkshiretimes.co.uk/,Johnston Press PLC,weekly,paid,editorial@dearnetoday.co.uk,01302 819111,DN1 1TN,Doncaster
 Southampton News Extra,http://www.dailyecho.co.uk/,Newsquest PLC,weekly,free,ian.murray@dailyecho.co.uk,023 8042 4830,SO16 9JX,Southampton
 Southend Standard,http://www.southendstandard.co.uk/,Newsquest PLC,weekly,free,chris.hatton@nqe.com,01268 469455,SS1 1AN,Southend-on-Sea
 Southend Yellow Advertiser,http://www.southend-today.co.uk/,Tindle Newspapers Limited,weekly,free,steveneale@yellowad.co.uk,01268 503463,SS14 1AH,Southend-on-Sea
@@ -867,7 +854,6 @@ Spilsby Standard,http://www.skegnessstandard.co.uk/,Johnston Press PLC,weekly,pa
 Springburn Herald,http://www.kirkintilloch-herald.co.uk/,Johnston Press PLC,weekly,paid,kirkyherald@jnscotland.co.uk,0141 775 0040,G66 3AA,City of Glasgow
 St Albans & Harpenden Review,http://www.stalbansreview.co.uk/,Newsquest PLC,weekly,free,tjones@london.newsquest.co.uk,01923 216 216,WD18 8RJ,St Albans
 St Andrews Citizen,http://www.fifetoday.co.uk/,Johnston Press PLC,weekly,paid,ffpnews@fifetoday.co.uk,01592 645700,KY1 1EP,Fife
-St Helens Reporter,http://www.sthelensreporter.co.uk/,Johnston Press PLC,weekly,free,sthelens.reporter@lancspublications.co.uk,01942 228000,WN5 0LX,St Helens
 St Helens Star,http://www.sthelensstar.co.uk/,Newsquest PLC,weekly,free,andrew.kilmurray@nqnw.co.uk,01744 762766,WA10 1RT,St Helens
 St Ives Times & Echo,http://www.stivesnews.co.uk/site/,The St Ives Printing and Publishing Company Ltd,weekly,paid,enquiries@stivesnews.co.uk,01736 795813,TR26 1RS,Cornwall
 Staffordshire Newsletter,http://www.staffordshirenewsletter.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,editor@staffordshirenewsletter.co.uk,01785 339602,ST16 2QZ,Stafford
@@ -939,8 +925,10 @@ Tenby Observer,http://www.tenby-today.co.uk/,Tindle Newspapers Limited,weekly,pa
 Thame Gazette,http://www.thametoday.co.uk/,Johnston Press PLC,weekly,free,thamegazette@jpress.co.uk,01296 619735,HP19 8DB,South Oxfordshire
 The Bucks Herald,http://www.bucksherald.co.uk/,Johnston Press PLC,weekly,paid,editorial@bucksherald.co.uk,editorial@bucksherald.co.uk,HP19 8DB,Aylesbury Vale
 The Buteman,http://www.buteman.co.uk/,Johnston Press PLC,weekly,paid,bute.newsdesk@buteman.com,01700 502503,PA20 0AJ,Argyll and Bute
-The Chronicle (Sandbach & Middlewich Edition),http://www.crewechronicle.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,crewe.news@trinitymirror.com,01244 606431,CH1 4RN,Cheshire East
+The Carmarthenshire Herald,http://www.carmarthenshireherald.com/,Megagroup Newspapers Ltd,Weekly,paid,,,,Carmarthenshire
+The Ceredigion Herald,http://ceredigionherald.com/,Megagroup Newspapers Ltd,weekly,paid,,,,Ceredigion
 The Chronicle - Newcastle,http://www.chroniclelive.co.uk/,Trinity Mirror Regionals Limited,daily,paid,ec.news@ncjmedia.co.uk,0191 201 6446,NE1 1ED,"Gateshead,Newcastle upon Tyne,North Tyneside"
+The Chronicle (Sandbach & Middlewich Edition),http://www.crewechronicle.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,crewe.news@trinitymirror.com,01244 606431,CH1 4RN,Cheshire East
 The Citizen (Blackburn),http://www.lancashiretelegraph.co.uk/news/blackburn/,Newsquest PLC,weekly,free,lt_editorial@nqnw.co.uk,01254 298205,BB1 1HT,Blackburn
 The Citizen (Gloucester),http://www.gloucestercitizen.co.uk/,Trinity Mirror Regionals Limited,daily,paid,jenny.eastwood@glosmedia.co.uk,01452 698803,GL1 1RZ,Gloucester
 The Cornishman,http://www.cornishman.co.uk/,Trinity Mirror Regionals Limited,weekly,paid,Jacqui.Walls@dc-media.co.uk,01736 335511,TR18 2JB,"Isles of Scilly,Cornwall"
@@ -952,28 +940,34 @@ The Echo (Castle Point),http://www.echo-news.co.uk/,Newsquest PLC,daily,paid,chr
 The Echo (Southend),http://www.echo-news.co.uk/,Newsquest PLC,daily,paid,chris.hatton@nqe.com,01268 469455,SS14 3BL,Southend-on-Sea
 The Examiner,http://www.crossexaminer.co.uk/,The Examiner Ltd,weekly,paid,info@crossexaminer.co.uk,02830 868500,BT35 9JJ,Newry and Mourne
 The Forester,http://www.theforester.co.uk/,Tindle Newspapers Limited,weekly,paid,andysherwill@theforester.co.uk,01594 820606,GL14 2SL,Forest of Dean
+The Hawick Paper,http://www.thehawickpaper.co.uk/,Jason Marshall,weekly,paid,,,,Scottish Borders
 The Herald (Harrogate),http://www.harrogateadvertiser.co.uk/news/local/nidderdale,Johnston Press PLC,weekly,paid,news@harrogateadvertiser.co.uk,01423 707402,HG3 1RZ,Harrogate
 The Herald (Plymouth),http://www.plymouthherald.co.uk/,Trinity Mirror Regionals Limited,daily,paid,news@theplymouthherald.co.uk,01752 293100,PL6 5AA,Plymouth
 The Hunts Post (Huntingdon),http://www.huntspost.co.uk/home,Archant,weekly,free,stefan.bartlett@archant.co.uk,01480 411481,PE29 3TB,Huntingdonshire
 The Hunts Post (St Neots),http://www.huntspost.co.uk/home,Archant,weekly,free,stefan.bartlett@archant.co.uk,01480 411481,PE29 3TB,Huntingdonshire
 The Impartial Reporter,http://www.impartialreporter.com/,Newsquest PLC,weekly,paid,editorial@impartialreporter.com,028 6632 4422,BT74 7BT,Fermanagh
-The Leader (Flintshire),http://www.leaderlive.co.uk/,NWN Media Ltd,weekly,paid,internet@nwn.co.uk,01352 707707,CH7 1XY,Flintshire
 The Leader - Chester,http://www.leaderlive.co.uk/,NWN Media Ltd,daily,paid,internet@nwn.co.uk,01244 304500,CH1 2LA,Cheshire West and Chester
 The Leader - Coleraine,http://www.theleader.uk.com/,Alpha Newspaper Group,weekly,paid,news@theleader.uk.com,028 7034 3344,BT52 1PD,Coleraine
+The Leader (Flintshire),http://www.leaderlive.co.uk/,NWN Media Ltd,weekly,paid,internet@nwn.co.uk,01352 707707,CH7 1XY,Flintshire
+The Llanelli Herald,http://www.llanelliherald.com/,Megagroup Newspapers Ltd,weekly,paid,,,,Carmarthenshire
 The Mourne Observer,http://www.mourneobserver.com/,D E Alexander & Sons Ltd,weekly,paid,news@mourneobserver.com,028 4372 2666,BT33 0JX,Newry and Mourne
 The News (Havant & Waterlooville),http://www.portsmouth.co.uk/,Johnston Press PLC,daily,paid,newsdesk@thenews.co.uk,023 9266 4488,PO2 9SX,Havant
 The News (Portsmouth),http://www.portsmouth.co.uk/,Johnston Press PLC,daily,paid,newsdesk@thenews.co.uk,023 9266 4488,PO2 9SX,"Gosport,Portsmouth"
 The News Letter,http://www.newsletter.co.uk/,Johnston Press PLC,daily,paid,newsdesk@newsletter.co.uk,028 9089 7700,BT1 5JA,Belfast
 The Orcadian,http://www.orcadian.co.uk/,Orkney Media Group,weekly,paid,sigurd@orcadian.co.uk,(01856) 879000,KW15 1GJ,Orkney Islands
+The Oxford Paper,http://www.theoxfordpaper.co.uk/,Taylor Newspapers Ltd,weekly,paid,,,,Oxford
 The Press - Dewsbury,http://www.thepressnews.co.uk/contact-us/,The Press News Limited,weekly,free,news@thepressnews.co.uk,01924 470296,WF17 5SB,Kirklees
 The Press - York,http://www.yorkpress.co.uk/,Newsquest PLC,daily,paid,newsdesk@thepress.co.uk,01904 567131,YO1 9YN,York
 The Royal Borough Observer,http://www.windsorobserver.co.uk/,Newsquest PLC,weekly,paid,newsroomslough@berksmedia.co.uk,0118 955 3333,RG30 1BA,Windsor and Maidenhead
 The Sentinel - Stoke,http://www.stokesentinel.co.uk/,Trinity Mirror Regionals Limited,daily,paid,newsdesk@thesentinel.co.uk,01782 864120,ST1 3GN,"Newcastle-Under-Lyme,Stoke-on-Trent,Staffordshire Moorlands"
 The Shuttle,http://www.kidderminstershuttle.co.uk/,Newsquest PLC,weekly,free,editorial@kidderminstershuttle.co.uk,01384 358262,DY8 1EH,Wyre Forest
+The Times of Tonbridge,https://www.timesoftunbridgewells.co.uk/,One Media,weekly,free,,,,Tonbridge and Malling
+The Times of Tunbridge Wells,https://www.timesoftunbridgewells.co.uk/,One Media,weekly,free,,,,Tunbridge Wells
 The Trader,http://newarkadvertiser.co.uk/,The Newark Advertiser Company Ltd,weekly,free,c.prime@newarkadvertiser.co.uk,01636 681234,NG24 1JX,Newark and Sherwood
 The Visitor (Morecambe),http://www.thevisitor.co.uk/,Johnston Press PLC,weekly,paid,nicola.adam@jpress.co.uk,01524 385901,LA3 3PA,Lancaster
 The Watford Free,http://www.watfordobserver.co.uk/,Newsquest PLC,weekly,free,tjones@london.newsquest.co.uk,01923 216 216,WD18 8RJ,Watford
 The Wharf,http://www.wharf.co.uk/,Trinity Mirror Regionals Limited,weekly,free,giles.broadbent@wharf.co.uk,020 7293 3681,E14 5AP,Tower Hamlets
+The Wokingham Paper,https://www.wokinghampaper.com/,Xn Media,weekly,paid,,,,Wokingham
 The Yorkshire Post,http://www.yorkshirepost.co.uk/,Johnston Press PLC,daily,paid,yp.newsdesk@ypn.co.uk,0113 243 2701,LS12 1BE,Leeds
 Thetford & Brandon Times,http://www.thetfordandbrandontimes.co.uk/home,Archant,weekly,free,Andrew.Fitchett@archant.co.uk,07584 503055,NR19 1DZ,Breckland
 Thirsk Weekly News,http://www.thirskweeklynews.com/,GH Smith & Son Ltd,weekly,paid,news@thirskweeklynews.com,01347 821329,YO61 3AB,Hambleton
@@ -1013,6 +1007,7 @@ Waltham Forest Independent,http://www.guardian-series.co.uk/news/wfnews/,Newsque
 Walton & Weybridge Informer,http://www.getsurrey.co.uk/,Trinity Mirror Regionals Limited,weekly,free,mark.miseldine@trinitymirror.com,01483 508700,GU1 1QA,Elmbridge
 Wandsworth Guardian,http://www.wandsworthguardian.co.uk/,Newsquest PLC,weekly,free,newsdesk@wandsworthguardian.co.uk,020 8722 6344,SM2 5AS,Wandsworth
 Wanstead & Woodford Guardian,http://www.guardian-series.co.uk/news/wfnews/,Newsquest PLC,weekly,paid,tjones@london.newsquest.co.uk,020 8498 3400,CM16 4AU,Redbridge
+Wanstead & Woodford Recorder,http://www.ilfordrecorder.co.uk/news/wanstead-and-woodford-news,Archant,weekly,paid,,,,Redbridge
 Wantage & Grove Herald,http://www.heraldseries.co.uk/news/hswantagenews/,Newsquest PLC,weekly,paid,soneill@nqo.com,01865 42 52 62,OX2 0EJ,Vale of White Horse
 Warrington Guardian,http://www.warringtonguardian.co.uk/,Newsquest PLC,weekly,paid,hayley.smith@newsquest.co.uk,01925 426 813,WA1 2RU,Warrington
 Warrington Midweek,http://www.warringtonguardian.co.uk/,Newsquest PLC,weekly,free,hayley.smith@newsquest.co.uk,01925 426 813,WA1 2RU,Warrington
@@ -1109,4 +1104,3 @@ Y Cymro,http://www.y-cymro.com/,Tindle Newspapers Limited,weekly,paid,N/A,01766 
 Yellow Advertiser (Thurrock),http://www.thurrock-today.co.uk/,Tindle Newspapers Limited,weekly,free,steveneale@yellowad.co.uk,01268 503463,SS14 1AH,Thurrock
 Yorkshire Evening Post,http://www.yorkshireeveningpost.co.uk/,Johnston Press PLC,daily,paid,yep.newsdesk@ypn.co.uk,0113 243 2701,LS12 1BE,Leeds
 Your Local Paper,http://www.yourlocalpaper.co.uk/,Your Local Paper Ltd,weekly,free,donna@yourlocalpaper.co.uk,01553 611233,PE30 1ET,King's Lynn and West Norfolk
-[None],,,,,,,,"Neath Port Talbot,North Dorset"
